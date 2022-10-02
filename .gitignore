@@ -1,0 +1,7 @@
+# node moudle
+node_modules
+
+# env file
+*.env
+.env.development
+.env.production
